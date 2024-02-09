@@ -4,7 +4,7 @@
   ![License: MIT](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
 
   ## Description
-  This project generates readme files based on information that you provide
+  We were asigned to make a readme generator for projects we are going to upload to github in the future
 
   ## Table of Contents 
   - [Installation](#installation)
@@ -15,14 +15,13 @@
   - [Questions](#questions)
 
   ## Installation
-  The first step to installing the ReadMe Generator is first downloading the package.json by running 'npm init -y'
+  npm init and an npm install
 
   ## Usage
   Provide instructions and examples for use. Include screenshots as needed.
 
   ## Contributing
-  The command that you should run would be 'npm i inquirer@8.2.4' in the terminal
+  node index.js
 
   ## Tests
-  To run the tests you should run the command 'node index.js' in the index.js integrated terminal
   
